@@ -6,6 +6,10 @@ spec.json: see the header of product.js. Output: 1080x1920, 30fps, silent AAC tr
 import sys, os, json, subprocess, tempfile, shutil
 HERE=os.path.dirname(os.path.abspath(__file__))
 spec=json.load(open(sys.argv[1])); out=os.path.abspath(sys.argv[2]); frames='--frames' in sys.argv
+import base64
+for it in spec['items']:
+    if it.get('img'):
+        it['src']='data:image/jpeg;base64,'+base64.b64encode(open(os.path.join(HERE,'products',it['img']),'rb').read()).decode()
 d=tempfile.mkdtemp()
 open(os.path.join(d,'scenes.js'),'w').write('const SPEC='+json.dumps(spec)+';\n'+open(os.path.join(HERE,'product.js')).read())
 if frames:

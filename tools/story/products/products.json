@@ -1,0 +1,167 @@
+[
+ {
+  "file": "bottle-smart.jpg",
+  "label": "Smart bottles",
+  "category": "drinkware"
+ },
+ {
+  "file": "cable-set.jpg",
+  "label": "Charging cable set",
+  "category": "tech"
+ },
+ {
+  "file": "car-charger.jpg",
+  "label": "Car charger",
+  "category": "tech"
+ },
+ {
+  "file": "cooler-backpack.jpg",
+  "label": "Cooler backpack",
+  "category": "bags"
+ },
+ {
+  "file": "desk-lamp.jpg",
+  "label": "Desk lamp + charger",
+  "category": "tech"
+ },
+ {
+  "file": "earbuds.jpg",
+  "label": "Bamboo earbuds",
+  "category": "tech"
+ },
+ {
+  "file": "gahwa-cups.jpg",
+  "label": "Gahwa cups",
+  "category": "drinkware"
+ },
+ {
+  "file": "hoodie.jpg",
+  "label": "Hoodies",
+  "category": "apparel"
+ },
+ {
+  "file": "lanyard.jpg",
+  "label": "Lanyards",
+  "category": "events"
+ },
+ {
+  "file": "lapel-pin.jpg",
+  "label": "Lapel pins",
+  "category": "events"
+ },
+ {
+  "file": "laptop-bag.jpg",
+  "label": "Laptop bags",
+  "category": "bags"
+ },
+ {
+  "file": "medal.jpg",
+  "label": "Medals",
+  "category": "sports"
+ },
+ {
+  "file": "mug-ceramic.jpg",
+  "label": "Ceramic mugs",
+  "category": "drinkware"
+ },
+ {
+  "file": "mug-travel.jpg",
+  "label": "Travel mugs",
+  "category": "drinkware"
+ },
+ {
+  "file": "name-badge.jpg",
+  "label": "Name badges",
+  "category": "events"
+ },
+ {
+  "file": "notebook-bisht.jpg",
+  "label": "Bisht notebooks",
+  "category": "stationery"
+ },
+ {
+  "file": "notebook-pu.jpg",
+  "label": "A5 notebooks",
+  "category": "stationery"
+ },
+ {
+  "file": "notebook-rpet.jpg",
+  "label": "Bamboo notebooks",
+  "category": "stationery"
+ },
+ {
+  "file": "office-gift-set.jpg",
+  "label": "Office gift sets",
+  "category": "gift sets"
+ },
+ {
+  "file": "pen-emirati.jpg",
+  "label": "Metal pens",
+  "category": "stationery"
+ },
+ {
+  "file": "portfolio.jpg",
+  "label": "Portfolios",
+  "category": "stationery"
+ },
+ {
+  "file": "powerbank-bamboo.jpg",
+  "label": "Bamboo powerbank",
+  "category": "tech"
+ },
+ {
+  "file": "powerbank-digital.jpg",
+  "label": "Powerbanks",
+  "category": "tech"
+ },
+ {
+  "file": "prayer-mat.jpg",
+  "label": "Prayer mat sets",
+  "category": "ramadan"
+ },
+ {
+  "file": "tote.jpg",
+  "label": "Cotton totes",
+  "category": "bags"
+ },
+ {
+  "file": "travel-set.jpg",
+  "label": "Travel sets",
+  "category": "gift sets"
+ },
+ {
+  "file": "trophy.jpg",
+  "label": "Crystal trophies",
+  "category": "awards"
+ },
+ {
+  "file": "tshirt.jpg",
+  "label": "Printed tees",
+  "category": "apparel"
+ },
+ {
+  "file": "tumbler-lid.jpg",
+  "label": "Tumblers",
+  "category": "drinkware"
+ },
+ {
+  "file": "tumbler-straw.jpg",
+  "label": "Straw tumblers",
+  "category": "drinkware"
+ },
+ {
+  "file": "uae-badges.jpg",
+  "label": "UAE flag badges",
+  "category": "national day"
+ },
+ {
+  "file": "uae-flag-stand.jpg",
+  "label": "Desk flags",
+  "category": "national day"
+ },
+ {
+  "file": "uae-magnet-badge.jpg",
+  "label": "Proud of UAE badges",
+  "category": "national day"
+ }
+]

@@ -1,1 +1,1 @@
-{"format":"ab","hook":"A or B?","sub":"Pick your stand giveaway","items":[{"p":"tote","label":"Canvas tote"},{"p":"bottle","c":"#8C00FF","label":"Steel bottle"}],"end":{"h":"Stand giveaways with your logo","keyword":"STAND"}}
+{"format":"ab","hook":"A or B?","sub":"Pick your stand giveaway","items":[{"img":"tote.jpg","label":"Cotton tote"},{"img":"bottle-smart.jpg","label":"Smart bottle"}],"end":{"h":"Stand giveaways with your logo","keyword":"STAND"}}
