@@ -1,7 +1,7 @@
 # Reel rules (owner decision 22 Nov 2026). These override the stock-video reel steps in the task prompt and the "Reel:" / "Free Pexels media only" lines in playbook.md.
 
 ## Weekly slots (Mon-Fri 10:00 Dubai)
-- ALL REELS are scheduled as TRIAL REELS (owner decision 22 Nov): Metricool instagramData.type "TRIAL_REEL" for every reel, story reels and occasion reels included. Carousels stay type POST.
+- ALL REELS are scheduled as NORMAL REELS (owner decision 24 Nov, replaces the 22 Nov Trial Reel rule): Metricool instagramData.type "REEL" with showReelOnFeed true. Do NOT use "TRIAL_REEL": Instagram rejected it on 23 Nov ("Trial Reel Not Enough Followers") because the account is below the follower requirement. Carousels stay type POST.
 - Mon: PRODUCT REEL (animated template, format logo_on or ideas).
 - Tue, Thu: CAROUSEL (unchanged; Pexels photos are still fine for carousels).
 - Wed: ZUZAZI STORY reel, pre-made in chat by Claude and scheduled in advance. If a Wednesday has nothing scheduled, make a PRODUCT REEL in format ab instead.
